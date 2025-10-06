@@ -712,5 +712,3 @@ When contributing to this project:
 5. Test with multiple query types
 
 ---
-
-This documentation provides comprehensive guidance for installing, configuring, using, and extending the SEC Knowledge Graph Chat System. For additional support or feature requests, please refer to the project's issue tracker or contact the development team.
