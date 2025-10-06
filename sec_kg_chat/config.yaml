@@ -1,0 +1,3 @@
+# Application settings can be specified here
+# Environment variables take precedence
+log_level: INFO
