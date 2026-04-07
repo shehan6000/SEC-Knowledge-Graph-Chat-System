@@ -1,17 +1,6 @@
 # SEC-Knowledge-Graph-Chat-System
 
-## Table of Contents
 
-1. [Overview](#overview)
-2. [System Architecture](#system-architecture)
-3. [Installation & Setup](#installation--setup)
-4. [Configuration](#configuration)
-5. [Usage Guide](#usage-guide)
-6. [API Reference](#api-reference)
-7. [Query Examples](#query-examples)
-8. [Development Guide](#development-guide)
-9. [Troubleshooting](#troubleshooting)
-10. [Monitoring & Logging](#monitoring--logging)
 
 ## Overview
 
@@ -701,14 +690,6 @@ health_status = query_engine.health_check()
 - [LangChain Documentation](https://python.langchain.com/docs/)
 - [OpenAI API Documentation](https://platform.openai.com/docs/)
 
-### Contributing
 
-When contributing to this project:
-
-1. Follow the existing code style
-2. Add tests for new features
-3. Update documentation
-4. Use meaningful commit messages
-5. Test with multiple query types
 
 ---
