@@ -29,14 +29,14 @@ The SEC Knowledge Graph Chat System is an intelligent query interface that allow
 
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   User Interface │◄──►│   Query Engine   │◄──►│   Graph Manager  │
-│   (CLI/API)     │    │                 │    │                 │
+│   User Interface│◄──►│   Query Engine   │◄──►│   Graph Manager │
+│   (CLI/API)     │    │                  │    │                 │
 └─────────────────┘    └──────────────────┘    └─────────────────┘
                               │                         │
                               │                         │
                               ▼                         ▼
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│ Cypher Generator │    │   Configuration  │    │   Neo4j Database │
+│ Cypher Generator│    │   Configuration  │    │   Neo4j Database│
 │    (LLM)        │    │     Manager      │    │                 │
 └─────────────────┘    └──────────────────┘    └─────────────────┘
 ```
